@@ -24,8 +24,8 @@ I'm a passionate software developer and final-year student with a strong interes
 
 ## 📫 Connect with Me
 - ✉️ Email: nandkishor@example.com *(replace with your real email)*  
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-link) *(replace link)*  
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com) *(optional)*
+- 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/nandkishor2004) *
+- 🌐 Portfolio: [your-portfolio.com]([https://your-portfolio.com](https://nand-kishor-kumar.github.io/My_Portfolio/)
 
 ---
 
